@@ -12,7 +12,6 @@
 This project explores a dataset of 200,000 historical Uber rides in NYC to identify patterns in fare pricing, ride distribution, and peak demand periods. Python was used for data cleaning and transformation, while Power BI was used for building an interactive dashboard.
 
 ---
-
 ##  Objectives
 
 - Analyze fare behavior by hour, day, and month
